@@ -1,0 +1,15 @@
+{
+  "name": "qq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-voice": "^2.0.6",
+    "discord.js": "^13.1.0"
+  }
+}
